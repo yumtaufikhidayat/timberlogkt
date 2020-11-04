@@ -45,8 +45,10 @@ This app built with these technologies:
             - androidTestImplementation 'androidx.test.espresso:espresso-core:3.3.0'
 
 #### By Third Party Libraries
-    - Firebase
+- Firebase
+
         - implementation 'com.google.firebase:firebase-database:19.5.1'
 
-    - Timber
+- Timber
+
         - implementation 'com.jakewharton.timber:timber:4.7.1'
