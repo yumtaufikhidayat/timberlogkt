@@ -1,2 +1,2 @@
 # timberlog
-Remote logging with Timber and Firebase Realtime Database
+Building Timber tree for tracking logs remotely and realtime.
